@@ -4,7 +4,7 @@
 
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ungeho&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ungeho&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ungeho&theme=tokyonight&utcOffset=8" />
 </p>
 
 <!--
