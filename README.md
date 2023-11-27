@@ -2,7 +2,7 @@
 
 1. I never leave my home.
 
-2. I love the game!
+2. I love internet games!
 
 <p align="left">
     <img alt="profile" height="200px" width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ungeho&theme=algolia" />
