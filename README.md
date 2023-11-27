@@ -2,8 +2,8 @@
 
 
 
-<p align="center">
-    <img alt="profile" height="200px" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ungeho&theme=algolia" />
+<p align="left">
+    <img alt="profile" height="200px" width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ungeho&theme=algolia" />
 </p>
 
 <!-- <p align="center">
