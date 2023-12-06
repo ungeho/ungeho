@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-    <img alt="Top Langs" height="200px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ungeho&layout=compact&count_private=true&show_icons=true&theme=algolia" />
+    <img alt="Top Langs" height="200px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ungeho&layout=compact&count_private=true&show_icons=true&theme=algolia" />
 </p>
 
 <!-- <p align="center">
