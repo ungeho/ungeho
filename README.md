@@ -12,29 +12,22 @@ Frontend-heavy personal projects, small tools, and game-adjacent experiments.
 
 </div>
 
-<table>
-  <tr>
-    <td valign="top" width="56%">
-      <h4>About</h4>
-      <ul>
-        <li>Building practical tools with a clean UI and a little bit of personality</li>
-        <li>Interested in web apps, utility libraries, game helpers, and data visualization</li>
-        <li>Usually working on ideas that start small and end up surprisingly polished</li>
-      </ul>
-      <h4>Featured</h4>
-      <ul>
-        <li><code>budget-book</code> - personal finance app with a focused UI</li>
-        <li><code>lan-library</code> - library-style app and frontend playground</li>
-        <li><code>lol-cooldown-overlay</code> - game utility overlay experiment</li>
-        <li><code>black-path-variant</code> - interactive web project with a strong visual direction</li>
-      </ul>
+#### About
 
-    </td>
-    <td valign="top" width="44%">
-      <img alt="profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ungeho&theme=github_dark" />
-    </td>
-  </tr>
-</table>
+- Building practical tools with a clean UI and a little bit of personality
+- Interested in web apps, utility libraries, game helpers, and data visualization
+- Usually working on ideas that start small and end up surprisingly polished
+
+#### Featured
+
+- `budget-book` - personal finance app with a focused UI
+- `lan-library` - library-style app and frontend playground
+- `lol-cooldown-overlay` - game utility overlay experiment
+- `black-path-variant` - interactive web project with a strong visual direction
+
+<div align="center">
+  <img alt="profile details" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ungeho&theme=github_dark" />
+</div>
 
 <div align="center">
   <img alt="top languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ungeho&layout=compact&langs_count=8&hide_border=true&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
